@@ -1,2 +1,1 @@
 # luo-game
-game
